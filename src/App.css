@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.text {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  background-color: #282c34;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.App-link {
+  color: #61dafb;
+}
+
+
